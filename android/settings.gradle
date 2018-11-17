@@ -1,0 +1,3 @@
+rootProject.name = 'WorkOutLogger'
+
+include ':app'
